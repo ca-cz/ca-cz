@@ -47,5 +47,5 @@ Senior Full Stack & Cloud Engineer with 5+ years of experience architecting, bui
 
 ### 📬 Let's Connect
 - 💼 **LinkedIn:** [linkedin.com/in/ca-cz](https://www.linkedin.com/in/ca-cz)
-- 📄 **Resume / Portfolio:** [Linktree ca-cz](https://linktr.ee/ca-cz)
+- 📄 **Resume / Portfolio:** [Linktree (carlosacortes)](https://linktr.ee/carlosacortes)
 - ✉️ **Direct Email:** [carlosa.cortes@outlook.com](mailto:carlosa.cortes@outlook.com) / [carlos.cortes.dev@gmail.com](mailto:carlos.cortes.dev@gmail.com)
