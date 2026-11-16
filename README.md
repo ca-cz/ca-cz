@@ -36,11 +36,10 @@ Senior Full Stack & Cloud Engineer with 5+ years of experience architecting, bui
 
 ---
 
-### 📈 GitHub Stats
+### 📈 GitHub Stats & Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ca-cz&show_icons=true&theme=tokyonight&hide_border=true" alt="ca-cz GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ca-cz&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com/?user=ca-cz&theme=tokyonight&hide_border=true" alt="ca-cz GitHub Streak" />
 </p>
 
 ---
